@@ -1,0 +1,2 @@
+# lamp
+apache-php-mariadb
